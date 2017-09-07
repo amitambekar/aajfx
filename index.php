@@ -8,7 +8,7 @@ body, html {
 }
 
 .bgimg {
-    background-image: url('https://www.w3schools.com/w3images/forestbridge.jpg');
+    background-image: url('forex.jpg');
     height: 100%;
     background-position: center;
     background-size: cover;
@@ -33,7 +33,7 @@ body, html {
 .middle {
     position: absolute;
     text-align: center;
-    margin-left: 17%;
+    margin-left: 9%;
     margin-top: 4%;
     /*position: absolute;
     top: 30%;
@@ -63,6 +63,10 @@ hr {
   <div class="middle">
     <h1>COMING SOON AAJFX</h1>
     <div class="watch">
+        <iframe src="canvas1.html?timezone=+5.5"></iframe>   
+        <span>India</span>
+    </div>
+    <div class="watch">
         <iframe src="canvas1.html?timezone=-4"></iframe>
         <span>New York</span>
     </div>
@@ -78,9 +82,9 @@ hr {
         <iframe src="canvas1.html?timezone=+9"></iframe>   
         <span>Tokyo</span>
     </div>
+    
   </div>
-  <div class="bottomleft">
-  </div>
+  <div class="bottomleft"><h1 style="margin-left: 26%;margin-top: 100px;">FOREX BROKER</h1></div>
 </div>
 </body>
 <script>
